@@ -6,7 +6,7 @@ import Projects from "./pages/Projects";
 import Navbar from "./components/Navbar";
 import Certification from "./pages/Certification"
 
-
+//certification page added
 function App() {
   return (
     <>
